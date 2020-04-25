@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "sketch": "Marlin Firmware CR20-Pro\\Marlin\\Marlin.ino"
+}
